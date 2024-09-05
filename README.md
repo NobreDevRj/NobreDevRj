@@ -4,7 +4,7 @@ Sou um **Desenvolvedor Web Full-Stack**, especialista em criar soluções digita
 
 ---
 
-## 🛠️ **Minhas Especialidades**
+## 🛠️ **Minhas Especialidades** ##
 
 - **HTML5**: Construção de interfaces com semântica e acessibilidade em mente.
 - **CSS3**: Design responsivo com flexbox, grid e animações otimizadas.
